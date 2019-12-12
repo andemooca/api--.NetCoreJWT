@@ -1,0 +1,14 @@
+D:\Anderson\Projetos\api--ProS.GestaoServico\ProS.GestaoServico.Repositorio\obj\Debug\netcoreapp2.2\ProS.GestaoServico.Repositorio.csprojAssemblyReference.cache
+D:\Anderson\Projetos\api--ProS.GestaoServico\ProS.GestaoServico.Repositorio\obj\Debug\netcoreapp2.2\ProS.GestaoServico.Repositorio.csproj.CoreCompileInputs.cache
+D:\Anderson\Projetos\api--ProS.GestaoServico\ProS.GestaoServico.Repositorio\obj\Debug\netcoreapp2.2\ProS.GestaoServico.Repositorio.AssemblyInfoInputs.cache
+D:\Anderson\Projetos\api--ProS.GestaoServico\ProS.GestaoServico.Repositorio\obj\Debug\netcoreapp2.2\ProS.GestaoServico.Repositorio.AssemblyInfo.cs
+D:\Anderson\Projetos\api--ProS.GestaoServico\ProS.GestaoServico.Repositorio\bin\Debug\netcoreapp2.2\ProS.GestaoServico.Repositorio.deps.json
+D:\Anderson\Projetos\api--ProS.GestaoServico\ProS.GestaoServico.Repositorio\bin\Debug\netcoreapp2.2\ProS.GestaoServico.Repositorio.runtimeconfig.json
+D:\Anderson\Projetos\api--ProS.GestaoServico\ProS.GestaoServico.Repositorio\bin\Debug\netcoreapp2.2\ProS.GestaoServico.Repositorio.runtimeconfig.dev.json
+D:\Anderson\Projetos\api--ProS.GestaoServico\ProS.GestaoServico.Repositorio\bin\Debug\netcoreapp2.2\ProS.GestaoServico.Repositorio.dll
+D:\Anderson\Projetos\api--ProS.GestaoServico\ProS.GestaoServico.Repositorio\bin\Debug\netcoreapp2.2\ProS.GestaoServico.Repositorio.pdb
+D:\Anderson\Projetos\api--ProS.GestaoServico\ProS.GestaoServico.Repositorio\bin\Debug\netcoreapp2.2\ProS.GestaoServico.Entidades.dll
+D:\Anderson\Projetos\api--ProS.GestaoServico\ProS.GestaoServico.Repositorio\bin\Debug\netcoreapp2.2\ProS.GestaoServico.Entidades.pdb
+D:\Anderson\Projetos\api--ProS.GestaoServico\ProS.GestaoServico.Repositorio\obj\Debug\netcoreapp2.2\ProS.GestaoServico.Repositorio.csproj.CopyComplete
+D:\Anderson\Projetos\api--ProS.GestaoServico\ProS.GestaoServico.Repositorio\obj\Debug\netcoreapp2.2\ProS.GestaoServico.Repositorio.dll
+D:\Anderson\Projetos\api--ProS.GestaoServico\ProS.GestaoServico.Repositorio\obj\Debug\netcoreapp2.2\ProS.GestaoServico.Repositorio.pdb

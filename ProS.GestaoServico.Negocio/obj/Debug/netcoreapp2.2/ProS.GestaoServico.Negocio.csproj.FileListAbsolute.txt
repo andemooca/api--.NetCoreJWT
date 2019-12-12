@@ -1,0 +1,14 @@
+D:\Anderson\Projetos\api--ProS.GestaoServico\ProS.GestaoServico.Negocio\obj\Debug\netcoreapp2.2\ProS.GestaoServico.Negocio.csproj.CoreCompileInputs.cache
+D:\Anderson\Projetos\api--ProS.GestaoServico\ProS.GestaoServico.Negocio\obj\Debug\netcoreapp2.2\ProS.GestaoServico.Negocio.AssemblyInfoInputs.cache
+D:\Anderson\Projetos\api--ProS.GestaoServico\ProS.GestaoServico.Negocio\obj\Debug\netcoreapp2.2\ProS.GestaoServico.Negocio.AssemblyInfo.cs
+D:\Anderson\Projetos\api--ProS.GestaoServico\ProS.GestaoServico.Negocio\bin\Debug\netcoreapp2.2\ProS.GestaoServico.Negocio.deps.json
+D:\Anderson\Projetos\api--ProS.GestaoServico\ProS.GestaoServico.Negocio\bin\Debug\netcoreapp2.2\ProS.GestaoServico.Negocio.dll
+D:\Anderson\Projetos\api--ProS.GestaoServico\ProS.GestaoServico.Negocio\bin\Debug\netcoreapp2.2\ProS.GestaoServico.Negocio.pdb
+D:\Anderson\Projetos\api--ProS.GestaoServico\ProS.GestaoServico.Negocio\bin\Debug\netcoreapp2.2\ProS.GestaoServico.Entidades.dll
+D:\Anderson\Projetos\api--ProS.GestaoServico\ProS.GestaoServico.Negocio\bin\Debug\netcoreapp2.2\ProS.GestaoServico.Repositorio.dll
+D:\Anderson\Projetos\api--ProS.GestaoServico\ProS.GestaoServico.Negocio\bin\Debug\netcoreapp2.2\ProS.GestaoServico.Repositorio.pdb
+D:\Anderson\Projetos\api--ProS.GestaoServico\ProS.GestaoServico.Negocio\bin\Debug\netcoreapp2.2\ProS.GestaoServico.Entidades.pdb
+D:\Anderson\Projetos\api--ProS.GestaoServico\ProS.GestaoServico.Negocio\obj\Debug\netcoreapp2.2\ProS.GestaoServico.Negocio.csprojAssemblyReference.cache
+D:\Anderson\Projetos\api--ProS.GestaoServico\ProS.GestaoServico.Negocio\obj\Debug\netcoreapp2.2\ProS.GestaoServico.Negocio.csproj.CopyComplete
+D:\Anderson\Projetos\api--ProS.GestaoServico\ProS.GestaoServico.Negocio\obj\Debug\netcoreapp2.2\ProS.GestaoServico.Negocio.dll
+D:\Anderson\Projetos\api--ProS.GestaoServico\ProS.GestaoServico.Negocio\obj\Debug\netcoreapp2.2\ProS.GestaoServico.Negocio.pdb
