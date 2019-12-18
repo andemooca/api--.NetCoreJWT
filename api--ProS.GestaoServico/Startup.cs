@@ -6,8 +6,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Logging;
 using Microsoft.IdentityModel.Tokens;
+using ProS.GestaoServico.Negocio;
 using ProS.GestaoServico.Repositorio;
 
 namespace api__ProS.GestaoServico
@@ -23,6 +23,10 @@ namespace api__ProS.GestaoServico
 
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddTransient<UsuarioNegocio>();
+            services.AddTransient<UsuarioRepositorio>();
+            services.AddScoped(typeof(RepositorioBase<>), typeof(RepositorioBase<>));
+
             services.AddDbContext<ProSDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("ProSGestaoServico")));
 
             services.AddCors();
@@ -47,7 +51,7 @@ namespace api__ProS.GestaoServico
             });
         }
 
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory)
+        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
             if (env.IsDevelopment())
             {
@@ -65,6 +69,7 @@ namespace api__ProS.GestaoServico
 
             app.UseAuthentication();
             app.UseHttpsRedirection();
+            app.UseStaticFiles();//new
             app.UseMvc(routes =>
             {
                 routes.MapRoute(

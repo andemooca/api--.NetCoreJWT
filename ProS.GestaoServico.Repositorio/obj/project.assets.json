@@ -487,6 +487,15 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
       "Remotion.Linq/2.2.0": {
         "type": "package",
         "dependencies": {
@@ -1840,6 +1849,37 @@
         "lib/netstandard1.0/_._",
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
+      ]
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
       ]
     },
     "Remotion.Linq/2.2.0": {
@@ -3692,6 +3732,7 @@
       "Microsoft.EntityFrameworkCore.SqlServer.Design >= 1.1.6",
       "Microsoft.EntityFrameworkCore.Tools >= 2.2.0",
       "Microsoft.NETCore.App >= 2.2.0",
+      "Newtonsoft.Json >= 12.0.3",
       "ProS.GestaoServico.Entidades >= 1.0.0"
     ]
   },
@@ -3702,11 +3743,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Anderson\\Projetos\\api--ProS.GestaoServico\\ProS.GestaoServico.Repositorio\\ProS.GestaoServico.Repositorio.csproj",
+      "projectUniqueName": "D:\\Sistemas\\api--ProSGestaoServico\\ProS.GestaoServico.Repositorio\\ProS.GestaoServico.Repositorio.csproj",
       "projectName": "ProS.GestaoServico.Repositorio",
-      "projectPath": "D:\\Anderson\\Projetos\\api--ProS.GestaoServico\\ProS.GestaoServico.Repositorio\\ProS.GestaoServico.Repositorio.csproj",
+      "projectPath": "D:\\Sistemas\\api--ProSGestaoServico\\ProS.GestaoServico.Repositorio\\ProS.GestaoServico.Repositorio.csproj",
       "packagesPath": "C:\\Users\\anderson.lourenco\\.nuget\\packages\\",
-      "outputPath": "D:\\Anderson\\Projetos\\api--ProS.GestaoServico\\ProS.GestaoServico.Repositorio\\obj\\",
+      "outputPath": "D:\\Sistemas\\api--ProSGestaoServico\\ProS.GestaoServico.Repositorio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3726,8 +3767,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\Anderson\\Projetos\\api--ProS.GestaoServico\\ProS.GestaoServico.Entidades\\ProS.GestaoServico.Entidades.csproj": {
-              "projectPath": "D:\\Anderson\\Projetos\\api--ProS.GestaoServico\\ProS.GestaoServico.Entidades\\ProS.GestaoServico.Entidades.csproj"
+            "D:\\Sistemas\\api--ProSGestaoServico\\ProS.GestaoServico.Entidades\\ProS.GestaoServico.Entidades.csproj": {
+              "projectPath": "D:\\Sistemas\\api--ProSGestaoServico\\ProS.GestaoServico.Entidades\\ProS.GestaoServico.Entidades.csproj"
             }
           }
         }
@@ -3760,6 +3801,10 @@
             "target": "Package",
             "version": "[2.2.0, )",
             "autoReferenced": true
+          },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[12.0.3, )"
           }
         },
         "imports": [

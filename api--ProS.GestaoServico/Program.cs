@@ -18,10 +18,11 @@ namespace api__ProS.GestaoServico
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
-            WebHost.CreateDefaultBuilder(args)
-            .ConfigureLogging(logging =>
-            {
-            })
-              .UseStartup<Startup>();
+             WebHost.CreateDefaultBuilder(args)
+             .ConfigureLogging(logging =>
+             {
+             })
+               .UseStartup<Startup>();
+               //.UseIISIntegration();
     }
 }

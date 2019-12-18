@@ -1364,7 +1364,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Server.IISIntegration/2.2.0": {
+      "Microsoft.AspNetCore.Server.IISIntegration/2.2.1": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.Core": "2.2.0",
@@ -2948,7 +2948,7 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
-      "Newtonsoft.Json/11.0.2": {
+      "Newtonsoft.Json/12.0.3": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
@@ -5101,6 +5101,7 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": "2.2.6",
           "Microsoft.EntityFrameworkCore.SqlServer.Design": "1.1.6",
+          "Newtonsoft.Json": "12.0.3",
           "ProS.GestaoServico.Entidades": "1.0.0"
         },
         "compile": {
@@ -6231,17 +6232,17 @@
         "runtimes/win-x86/nativeassets/netcoreapp2.2/aspnetcorev2_inprocess.dll"
       ]
     },
-    "Microsoft.AspNetCore.Server.IISIntegration/2.2.0": {
-      "sha512": "iVjgAg+doTTrTFCOq6kZRpebXq94YGCx9efMIwO5QhwdY/sHAjfrVz2lXzji63G96YjJVK3ZRrlpgS2fd49ABw==",
+    "Microsoft.AspNetCore.Server.IISIntegration/2.2.1": {
+      "sha512": "Yzjx64GXNm6uteHQr1jCTJP+VB/6FndMyALud2CQpGmBWqXfklqctmncvLPtvljn5Y9stZNeECDUNrReFC8VRA==",
       "type": "package",
-      "path": "microsoft.aspnetcore.server.iisintegration/2.2.0",
+      "path": "microsoft.aspnetcore.server.iisintegration/2.2.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "build/netstandard2.0/Microsoft.AspNetCore.Server.IISIntegration.targets",
         "lib/netstandard2.0/Microsoft.AspNetCore.Server.IISIntegration.dll",
         "lib/netstandard2.0/Microsoft.AspNetCore.Server.IISIntegration.xml",
-        "microsoft.aspnetcore.server.iisintegration.2.2.0.nupkg.sha512",
+        "microsoft.aspnetcore.server.iisintegration.2.2.1.nupkg.sha512",
         "microsoft.aspnetcore.server.iisintegration.nuspec"
       ]
     },
@@ -8531,10 +8532,10 @@
         "netstandard.library.nuspec"
       ]
     },
-    "Newtonsoft.Json/11.0.2": {
-      "sha512": "IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+    "Newtonsoft.Json/12.0.3": {
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
       "type": "package",
-      "path": "newtonsoft.json/11.0.2",
+      "path": "newtonsoft.json/12.0.3",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -8557,8 +8558,9 @@
         "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
         "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
         "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
-        "newtonsoft.json.11.0.2.nupkg.sha512",
-        "newtonsoft.json.nuspec"
+        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
       ]
     },
     "Newtonsoft.Json.Bson/1.0.1": {
@@ -13933,6 +13935,7 @@
       "MicroKnights.Log4NetAdoNetAppender >= 2.0.1",
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
+      "Microsoft.AspNetCore.Server.IISIntegration >= 2.2.1",
       "Microsoft.NETCore.App >= 2.2.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.2.3",
       "ProS.GestaoServico.Negocio >= 1.0.0",
@@ -13947,11 +13950,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Anderson\\Projetos\\api--ProS.GestaoServico\\api--ProS.GestaoServico\\api--ProS.GestaoServico.csproj",
+      "projectUniqueName": "D:\\Sistemas\\api--ProSGestaoServico\\api--ProS.GestaoServico\\api--ProS.GestaoServico.csproj",
       "projectName": "api--ProS.GestaoServico",
-      "projectPath": "D:\\Anderson\\Projetos\\api--ProS.GestaoServico\\api--ProS.GestaoServico\\api--ProS.GestaoServico.csproj",
+      "projectPath": "D:\\Sistemas\\api--ProSGestaoServico\\api--ProS.GestaoServico\\api--ProS.GestaoServico.csproj",
       "packagesPath": "C:\\Users\\anderson.lourenco\\.nuget\\packages\\",
-      "outputPath": "D:\\Anderson\\Projetos\\api--ProS.GestaoServico\\api--ProS.GestaoServico\\obj\\",
+      "outputPath": "D:\\Sistemas\\api--ProSGestaoServico\\api--ProS.GestaoServico\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13971,11 +13974,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\Anderson\\Projetos\\api--ProS.GestaoServico\\ProS.GestaoServico.Negocio\\ProS.GestaoServico.Negocio.csproj": {
-              "projectPath": "D:\\Anderson\\Projetos\\api--ProS.GestaoServico\\ProS.GestaoServico.Negocio\\ProS.GestaoServico.Negocio.csproj"
+            "D:\\Sistemas\\api--ProSGestaoServico\\ProS.GestaoServico.Negocio\\ProS.GestaoServico.Negocio.csproj": {
+              "projectPath": "D:\\Sistemas\\api--ProSGestaoServico\\ProS.GestaoServico.Negocio\\ProS.GestaoServico.Negocio.csproj"
             },
-            "D:\\Anderson\\Projetos\\api--ProS.GestaoServico\\ProS.GestaoServico.Repositorio\\ProS.GestaoServico.Repositorio.csproj": {
-              "projectPath": "D:\\Anderson\\Projetos\\api--ProS.GestaoServico\\ProS.GestaoServico.Repositorio\\ProS.GestaoServico.Repositorio.csproj"
+            "D:\\Sistemas\\api--ProSGestaoServico\\ProS.GestaoServico.Repositorio\\ProS.GestaoServico.Repositorio.csproj": {
+              "projectPath": "D:\\Sistemas\\api--ProSGestaoServico\\ProS.GestaoServico.Repositorio\\ProS.GestaoServico.Repositorio.csproj"
             }
           }
         }
@@ -14003,6 +14006,10 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[2.2.0, )"
+          },
+          "Microsoft.AspNetCore.Server.IISIntegration": {
+            "target": "Package",
+            "version": "[2.2.1, )"
           },
           "Microsoft.NETCore.App": {
             "suppressParent": "All",

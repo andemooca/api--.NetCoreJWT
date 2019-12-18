@@ -6,14 +6,15 @@ namespace ProS.GestaoServico.Repositorio
 {
     public partial class ProSDbContext : DbContext
     {
-        public ProSDbContext()
-        {
-            //this.ChangeTracker.LazyLoadingEnabled = false;
-        }
         public ProSDbContext(DbContextOptions<ProSDbContext> options)
             : base(options)
         {
         }
+        public DbSet<Usuario> Usuario { get; set; }
+        public DbSet<Perfil> Perfil { get; set; }
+        public DbSet<Endereco> Endereco { get; set; }
+        public DbSet<Municipio> Municipio { get; set; }
+        public DbSet<UF> UF { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -22,15 +23,8 @@ namespace ProS.GestaoServico.Repositorio
             modelBuilder.ApplyConfiguration(new EnderecoMap());
             modelBuilder.ApplyConfiguration(new MunicipioMap());
             modelBuilder.ApplyConfiguration(new UFMap());
-
             base.OnModelCreating(modelBuilder);
         }
-
-        public DbSet<Usuario> Usuario { get; set; }
-        public DbSet<Perfil> Perfil { get; set; }
-        public DbSet<Endereco> Endereco { get; set; }
-        public DbSet<Municipio> Municipio { get; set; }
-        public DbSet<UF> UF { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

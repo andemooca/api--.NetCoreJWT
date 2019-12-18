@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Anderson\\Projetos\\api--ProS.GestaoServico\\ProS.GestaoServico.Entidades\\ProS.GestaoServico.Entidades.csproj",
+      "projectUniqueName": "D:\\Sistemas\\api--ProSGestaoServico\\ProS.GestaoServico.Entidades\\ProS.GestaoServico.Entidades.csproj",
       "projectName": "ProS.GestaoServico.Entidades",
-      "projectPath": "D:\\Anderson\\Projetos\\api--ProS.GestaoServico\\ProS.GestaoServico.Entidades\\ProS.GestaoServico.Entidades.csproj",
+      "projectPath": "D:\\Sistemas\\api--ProSGestaoServico\\ProS.GestaoServico.Entidades\\ProS.GestaoServico.Entidades.csproj",
       "packagesPath": "C:\\Users\\anderson.lourenco\\.nuget\\packages\\",
-      "outputPath": "D:\\Anderson\\Projetos\\api--ProS.GestaoServico\\ProS.GestaoServico.Entidades\\obj\\",
+      "outputPath": "D:\\Sistemas\\api--ProSGestaoServico\\ProS.GestaoServico.Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

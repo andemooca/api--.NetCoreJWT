@@ -11,9 +11,9 @@ namespace ProS.GestaoServico.Repositorio
         private bool disposed = false;
         private ProSDbContext contexto;
 
-        public RepositorioBase()
+        public RepositorioBase(ProSDbContext _contexto)
         {
-            contexto = new ProSDbContext();
+            contexto = _contexto;
         }
 
         protected IQueryable<T> Entidade

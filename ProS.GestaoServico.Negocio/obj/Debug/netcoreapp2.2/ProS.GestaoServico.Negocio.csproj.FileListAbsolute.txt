@@ -12,3 +12,17 @@ D:\Anderson\Projetos\api--ProS.GestaoServico\ProS.GestaoServico.Negocio\obj\Debu
 D:\Anderson\Projetos\api--ProS.GestaoServico\ProS.GestaoServico.Negocio\obj\Debug\netcoreapp2.2\ProS.GestaoServico.Negocio.csproj.CopyComplete
 D:\Anderson\Projetos\api--ProS.GestaoServico\ProS.GestaoServico.Negocio\obj\Debug\netcoreapp2.2\ProS.GestaoServico.Negocio.dll
 D:\Anderson\Projetos\api--ProS.GestaoServico\ProS.GestaoServico.Negocio\obj\Debug\netcoreapp2.2\ProS.GestaoServico.Negocio.pdb
+D:\Sistemas\api--ProSGestaoServico\ProS.GestaoServico.Negocio\bin\Debug\netcoreapp2.2\ProS.GestaoServico.Negocio.deps.json
+D:\Sistemas\api--ProSGestaoServico\ProS.GestaoServico.Negocio\bin\Debug\netcoreapp2.2\ProS.GestaoServico.Negocio.dll
+D:\Sistemas\api--ProSGestaoServico\ProS.GestaoServico.Negocio\bin\Debug\netcoreapp2.2\ProS.GestaoServico.Negocio.pdb
+D:\Sistemas\api--ProSGestaoServico\ProS.GestaoServico.Negocio\bin\Debug\netcoreapp2.2\ProS.GestaoServico.Entidades.dll
+D:\Sistemas\api--ProSGestaoServico\ProS.GestaoServico.Negocio\bin\Debug\netcoreapp2.2\ProS.GestaoServico.Repositorio.dll
+D:\Sistemas\api--ProSGestaoServico\ProS.GestaoServico.Negocio\bin\Debug\netcoreapp2.2\ProS.GestaoServico.Repositorio.pdb
+D:\Sistemas\api--ProSGestaoServico\ProS.GestaoServico.Negocio\bin\Debug\netcoreapp2.2\ProS.GestaoServico.Entidades.pdb
+D:\Sistemas\api--ProSGestaoServico\ProS.GestaoServico.Negocio\obj\Debug\netcoreapp2.2\ProS.GestaoServico.Negocio.csprojAssemblyReference.cache
+D:\Sistemas\api--ProSGestaoServico\ProS.GestaoServico.Negocio\obj\Debug\netcoreapp2.2\ProS.GestaoServico.Negocio.csproj.CoreCompileInputs.cache
+D:\Sistemas\api--ProSGestaoServico\ProS.GestaoServico.Negocio\obj\Debug\netcoreapp2.2\ProS.GestaoServico.Negocio.AssemblyInfoInputs.cache
+D:\Sistemas\api--ProSGestaoServico\ProS.GestaoServico.Negocio\obj\Debug\netcoreapp2.2\ProS.GestaoServico.Negocio.AssemblyInfo.cs
+D:\Sistemas\api--ProSGestaoServico\ProS.GestaoServico.Negocio\obj\Debug\netcoreapp2.2\ProS.GestaoServico.Negocio.csproj.CopyComplete
+D:\Sistemas\api--ProSGestaoServico\ProS.GestaoServico.Negocio\obj\Debug\netcoreapp2.2\ProS.GestaoServico.Negocio.dll
+D:\Sistemas\api--ProSGestaoServico\ProS.GestaoServico.Negocio\obj\Debug\netcoreapp2.2\ProS.GestaoServico.Negocio.pdb

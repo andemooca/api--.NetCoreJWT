@@ -1,0 +1,14 @@
+D:\Sistemas\api--ProSGestaoServico\ProS.GestaoServico.Negocio\bin\Release\netcoreapp2.2\ProS.GestaoServico.Negocio.deps.json
+D:\Sistemas\api--ProSGestaoServico\ProS.GestaoServico.Negocio\bin\Release\netcoreapp2.2\ProS.GestaoServico.Negocio.dll
+D:\Sistemas\api--ProSGestaoServico\ProS.GestaoServico.Negocio\bin\Release\netcoreapp2.2\ProS.GestaoServico.Negocio.pdb
+D:\Sistemas\api--ProSGestaoServico\ProS.GestaoServico.Negocio\bin\Release\netcoreapp2.2\ProS.GestaoServico.Entidades.dll
+D:\Sistemas\api--ProSGestaoServico\ProS.GestaoServico.Negocio\bin\Release\netcoreapp2.2\ProS.GestaoServico.Repositorio.dll
+D:\Sistemas\api--ProSGestaoServico\ProS.GestaoServico.Negocio\bin\Release\netcoreapp2.2\ProS.GestaoServico.Repositorio.pdb
+D:\Sistemas\api--ProSGestaoServico\ProS.GestaoServico.Negocio\bin\Release\netcoreapp2.2\ProS.GestaoServico.Entidades.pdb
+D:\Sistemas\api--ProSGestaoServico\ProS.GestaoServico.Negocio\obj\Release\netcoreapp2.2\ProS.GestaoServico.Negocio.csprojAssemblyReference.cache
+D:\Sistemas\api--ProSGestaoServico\ProS.GestaoServico.Negocio\obj\Release\netcoreapp2.2\ProS.GestaoServico.Negocio.csproj.CoreCompileInputs.cache
+D:\Sistemas\api--ProSGestaoServico\ProS.GestaoServico.Negocio\obj\Release\netcoreapp2.2\ProS.GestaoServico.Negocio.AssemblyInfoInputs.cache
+D:\Sistemas\api--ProSGestaoServico\ProS.GestaoServico.Negocio\obj\Release\netcoreapp2.2\ProS.GestaoServico.Negocio.AssemblyInfo.cs
+D:\Sistemas\api--ProSGestaoServico\ProS.GestaoServico.Negocio\obj\Release\netcoreapp2.2\ProS.GestaoServico.Negocio.csproj.CopyComplete
+D:\Sistemas\api--ProSGestaoServico\ProS.GestaoServico.Negocio\obj\Release\netcoreapp2.2\ProS.GestaoServico.Negocio.dll
+D:\Sistemas\api--ProSGestaoServico\ProS.GestaoServico.Negocio\obj\Release\netcoreapp2.2\ProS.GestaoServico.Negocio.pdb

@@ -1,5 +1,4 @@
-﻿using ProS.GestaoServico.Entidades;
-using ProS.GestaoServico.Entidades.Model;
+﻿using ProS.GestaoServico.Entidades.Model;
 using ProS.GestaoServico.Repositorio;
 
 namespace ProS.GestaoServico.Negocio
@@ -8,14 +7,13 @@ namespace ProS.GestaoServico.Negocio
     {
         private UsuarioRepositorio usuarioRepositorio;
 
-        public UsuarioNegocio()
+        public UsuarioNegocio(UsuarioRepositorio _usuarioRepositorio)
         {
-            usuarioRepositorio = new UsuarioRepositorio();
+            usuarioRepositorio = _usuarioRepositorio;
         }
-
         public UsuarioModel ObterUsuario(UsuarioModel usuario)
         {
-            return usuarioRepositorio.ObterUsuario(new Usuario() { IdUsuario = usuario.IdUsuario });
+            return usuarioRepositorio.ObterUsuario(usuario);
         }
     }
 }

@@ -16,10 +16,10 @@ namespace api__ProS.GestaoServico.Controllers
         private ProSLogger logger = new ProSLogger();
         private UsuarioNegocio usuarioNegocio;
         private ProSDbContext contexto;
-        public LoginController(ProSDbContext _contexto)
+        public LoginController(UsuarioNegocio _usuarioNegocio)
         {
-            contexto = _contexto;
-            usuarioNegocio = new UsuarioNegocio();
+            //contexto = _contexto;
+            usuarioNegocio = _usuarioNegocio;
         }
 
         [HttpPost]
@@ -31,7 +31,7 @@ namespace api__ProS.GestaoServico.Controllers
             {
                 if (model.Login != null && model.Senha != null)
                 {
-                    UsuarioModel usuario = usuarioNegocio.ObterUsuario(new UsuarioModel() { Login = model.Login, Senha = model.Senha });
+                    UsuarioModel usuario = new UsuarioModel();// usuarioNegocio.ObterUsuario(new UsuarioModel() { Login = model.Login, Senha = model.Senha });
 
                     if (usuario == null)
                     {
