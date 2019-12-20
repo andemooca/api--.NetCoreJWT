@@ -9,7 +9,6 @@ D:\Anderson\Projetos\api--ProS.GestaoServico\ProS.GestaoServico.Entidades\obj\De
 D:\Sistemas\api--ProSGestaoServico\ProS.GestaoServico.Entidades\bin\Debug\netcoreapp2.2\ProS.GestaoServico.Entidades.deps.json
 D:\Sistemas\api--ProSGestaoServico\ProS.GestaoServico.Entidades\bin\Debug\netcoreapp2.2\ProS.GestaoServico.Entidades.dll
 D:\Sistemas\api--ProSGestaoServico\ProS.GestaoServico.Entidades\bin\Debug\netcoreapp2.2\ProS.GestaoServico.Entidades.pdb
-D:\Sistemas\api--ProSGestaoServico\ProS.GestaoServico.Entidades\obj\Debug\netcoreapp2.2\ProS.GestaoServico.Entidades.csprojAssemblyReference.cache
 D:\Sistemas\api--ProSGestaoServico\ProS.GestaoServico.Entidades\obj\Debug\netcoreapp2.2\ProS.GestaoServico.Entidades.csproj.CoreCompileInputs.cache
 D:\Sistemas\api--ProSGestaoServico\ProS.GestaoServico.Entidades\obj\Debug\netcoreapp2.2\ProS.GestaoServico.Entidades.AssemblyInfoInputs.cache
 D:\Sistemas\api--ProSGestaoServico\ProS.GestaoServico.Entidades\obj\Debug\netcoreapp2.2\ProS.GestaoServico.Entidades.AssemblyInfo.cs
